@@ -1,44 +1,49 @@
-# ![logo](/examples/assets/LINE-sm.png) LINE Python
+LINE Python
 
- [![Version 3.0.8](https://img.shields.io/badge/beta-3.0.8-brightgreen.svg "Version 3.0.8")](https://pypi.python.org/pypi/linepy) [![LICENSE](https://img.shields.io/badge/license-BSD%203%20Clause-blue.svg "LICENSE")](https://github.com/fadhiilrachman/line-py/blob/master/LICENSE) [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) [![Chat on Discord](https://discordapp.com/api/guilds/370888828489170956/widget.png "Chat on Discord")](https://discord.gg/JAA2uk6)
+LINE Messaging's private API
 
-*LINE Messaging's private API*
+Important
 
-----
+First things you have to do is, clone this repository linepy-modified and then you must to copy linepy folders, after all installation complete. Paste linepy folders to folder selfbot-py.
+Please do not sell or rent this source code, because this is just for learning.
 
-## Requirement
+Installation for Termux
 
-The linepy module only requires Python 3. You can download from [here](https://www.python.org/downloads/). 
+$ apt update
+$ apt upgrade
+$ apt install python
+$ apt install git
+$ git clone https://github.com/Myyepz/sby
+$ cd sby
+$ python -m pip install -r requirements.txt
+$ python sby.py
+Installation for VPS
 
-## Installation
+$ git clone https://github.com/Myyepz/sby
+$ cd sby
+$ python3 -m pip install -r requirements.txt
+$ python3 sby.py
+LINE Square
 
-Installation is simple. It can be installed from pip using the following command:
-```sh
-$ pip install linepy
-```
-Or from the code:
-```sh
-$ python setup.py install
-```
+HelloWorld Square
 
-## Usage
+Discord
 
-```python
->>> from linepy import *
->>> line = LINE('EMAIL', 'PASSWORD')
->>> line.log("Auth Token : " + str(line.authToken))
-```
+HelloWorld
 
-### Examples
+Author
 
-All examples can be found [here](https://github.com/fadhiilrachman/line-py/tree/master/examples).
+Zero Cool / @crash-override404
+Fadhiil Rachman / @fadhiilrachman
+Alin / @muhmursalind
 
-## Updates
+Support
 
-From pip using the following command:
-```sh
-$ pip install linepy --upgrade
-```
-
-## Author
-Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
+All Hello World Members :
+Tanduri a.k.a HelloTan / @hellotan
+Fauzan Ardhana / @fauzanardh
+Moe Poi ~ / @moepoi
+Muhammad Fahri / @FAHRIZTX
+Dosugamea / @Dosugamea
+Dzin / @dzingans
+And others.
