@@ -1,0 +1,59 @@
+{
+    "myProfile": {
+        "statusMessage": "semuanya khendak ALLAH\ud83d\ude4f",
+        "pictureStatus": "0hM8xtXQqEEhdFDThYXNRtQHlIHHoyIxRfPT9bI2ZdRCI7NAVHeW9dcmldT3RoPFxDejleIzdfGXc4",
+        "coverId": "4b7c760c0d3edc9ce2b2a71261439dd6",
+        "displayName": "\u2764\ufe0ficha\u2764\ufe0f"
+    },
+    "changeGroupPicture": [],
+    "defaultReplyReader": "Sini kak @! temanin dedek \ud83d\ude25",
+    "checkContact": false,
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~myyepz",
+    "checkSticker": false,
+    "autoRespondMention": {
+        "status": true,
+        "message": "Kenapa kak? @! Mau Tf kah? \ud83d\ude33"
+    },
+    "setKey": {
+        "key": "",
+        "status": true
+    },
+    "changePictureProfile": false,
+    "changeCoverProfile": false,
+    "restartPoint": "c24926bb78b7bf09edd6a9cdd7036f109",
+    "checkPost": false,
+    "autoJoin": {
+        "status": true,
+        "ticket": false,
+        "message": "ty for invite @!",
+        "reply": true
+    },
+    "changeCoverPicture": false,
+    "autoRespond": {
+        "status": false,
+        "message": "https://line.me/ti/p/~myyepz"
+    },
+    "greet": {
+        "join": {
+            "status": true,
+            "message": "Selamat Datang Kak @! \ud83d\ude0d"
+        },
+        "leave": {
+            "status": true,
+            "message": "Bye bye @!"
+        }
+    },
+    "autoRead": false,
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "mimic": {
+        "target": {
+            "u3f844cd72c18c54434a1b4f2cd1550d6": false
+        },
+        "status": false
+    },
+    "autoAdd": {
+        "status": false,
+        "message": "cie nge add :v , minat order selfbot / bot protect add mybos https://line.me/ti/p/~myyepz",
+        "reply": true
+    }
+}

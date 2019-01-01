@@ -1,0 +1,15 @@
+
+644 : TalkException(reason='group key is not registered', parameterMap={}, code=99)
+598 : TalkException(reason='group key is not registered', parameterMap={}, code=99)
+505 : local variable 'msg_id' referenced before assignment
+669 : Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+910 : Upload image failure.
+428 : TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+342 : Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+832 : TalkException(parameterMap=None, code=82, reason='can not send using plain mode')
+348 : TalkException(parameterMap={}, reason='group key member mismatch', code=99)
+610 : Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+454 : Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+375 : TalkException(parameterMap={}, reason='group key member mismatch', code=99)
+751 : Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+310 : TalkException(parameterMap=None, reason='can not send using plain mode', code=82)
