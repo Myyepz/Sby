@@ -5,7 +5,7 @@ Do not sell or rent it!
 © 2018 Self Bot
 '''
 from important import *
-import pytz, datetime, pafy, time, timeit, random, sys, ast, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, wikipedia, html5lib
+import pytz, datetime, time, timeit, random, sys, ast, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, wikipedia, html5lib
 from datetime import timedelta, date
 from datetime import datetime
 from bs4 import BeautifulSoup
