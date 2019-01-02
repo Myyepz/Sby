@@ -19,6 +19,7 @@
         "status": true
     },
     "changePictureProfile": false,
+    "changevp": false,
     "changeCoverProfile": false,
     "restartPoint": "c24926bb78b7bf09edd6a9cdd7036f109",
     "checkPost": false,
