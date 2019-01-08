@@ -18,7 +18,7 @@ $ python -m pip install -r requirements.txt
 
 $ python sby.py
 
--••••<<<<<<<<<>>>>>>>>••••-
+------------------------------
 
 Installation for VPS
 
@@ -30,7 +30,8 @@ $ python3 -m pip install -r requirements.txt
 
 $ python3 sby.py
 
--••••<<<<<<<<<>>>>>>>>••••-
+------------------------------
+
 Rework By Yepz @Myyepz
 
 LINE Square
