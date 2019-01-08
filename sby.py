@@ -1,3 +1,8 @@
+# Please do not replace the text anything but sc.
+# Ini sc gratisan tolong hargain yg buat dict!
+# Rework by Yepz
+# Id : Myyepz
+# Thanks to team hello world
 # -*- coding: utf-8 -*-
 '''
 Free to use, all credits belong to me, Zero Cool.
@@ -90,16 +95,16 @@ if line:
     print ('##----- LOGIN CLIENT (Success) -----##')
 else:
     sys.exit('##----- LOGIN CLIENT (Failed) -----##')
-
+#Yepzgans
 myMid = line.profile.mid
 programStart = time.time()
 oepoll = OEPoll(line)
 tmp_text = []
 lurking = {}
 tokenz= {}
-
+#Yepzgans
 settings = livejson.File('setting.json', True, False, 4)
-
+#Yepzgans
 bool_dict = {
     True: ['Yes', 'Active', 'Success', 'Open', 'On'],
     False: ['No', 'Not Active', 'Failed', 'Close', 'Off']
