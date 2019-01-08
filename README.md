@@ -14,7 +14,7 @@ $ cd sby
 
 $ python -m pip install -r requirements.txt
 
-$ python sby.py
+$ python3 sby.py
 
 ------------------------------
 
