@@ -1,5 +1,3 @@
-LINE Python
-LINE Messaging's private API
 Installation for Termux
 
 $ apt update
