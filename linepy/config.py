@@ -46,7 +46,7 @@ class Config(object):
     APP_TYPE    = 'DESKTOPMAC'
     APP_VER     = APP_VERSION[APP_TYPE] if APP_TYPE in APP_VERSION else APP_VERSION['DEFAULT']
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'Yepz-PC'
+    SYSTEM_NAME = 'Yepz'
     SYSTEM_VER  = '5.9.0'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
