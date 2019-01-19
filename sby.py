@@ -247,7 +247,7 @@ def helpmsg3():
         key = settings['keyCommand']
     else:
         key = ''
-    helpMsg3 =   "╭───「 giie」" + "\n" + \
+    helpMsg3 =   "╭───「 Yepz 」" + "\n" + \
                     "├" + key + "Me" + "\n" + \
                     "├" + key + "Profile" + "\n" + \
                     "├" + key + "Blocklist" + "\n" + \
