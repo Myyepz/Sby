@@ -8,25 +8,25 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/Myyepz/sby
+$ git clone https://github.com/Myyepz/Sby
 
-$ cd sby
+$ cd Sby
 
 $ python -m pip install -r requirements.txt
 
-$ python3 sby.py
+$ python3 Sby.py
 
 ------------------------------
 
 Installation for VPS
 
-$ git clone https://github.com/Myyepz/sby
+$ git clone https://github.com/Myyepz/Sby
 
-$ cd sby
+$ cd Sby
 
 $ python3 -m pip install -r requirements.txt
 
-$ python3 sby.py
+$ python3 Sby.py
 
 ------------------------------
 
