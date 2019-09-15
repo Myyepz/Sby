@@ -387,7 +387,7 @@ def executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey):
         sys.exit('##----- PROGRAM STOPPED -----##')
     if cmd == "creator":
         line.sendReplyMessage(msg_id, to,"Contact Dibawah Ini \nAdalah Creator Bot")
-        line.sendContact(to,"u975a1d526d06a8dad7bbbb9b4e64f30b")
+        line.sendContact(to,"ud38f28d15808feb1ab523268509f04e3")
     if cmd == "listoken":
         helpMsg2 = helpmsg2()
         ty = line.getContact(sender)
